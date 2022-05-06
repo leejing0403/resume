@@ -5,6 +5,7 @@
 	Version: 3.1.5
 ------------------------------------------------------------------------- */
 (function($) {
+	
 	$.prettyPhoto = {version: '3.1.5'};
 	
 	$.fn.prettyPhoto = function(pp_settings) {

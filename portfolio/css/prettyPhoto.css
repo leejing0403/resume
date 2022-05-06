@@ -425,7 +425,8 @@ a.pp_next {
     float: right;
     height: 100%;
     text-indent: -10000px;
-    width: 49%;
+    width: 20%;
+    z-index: 500;
 }
 
 a.pp_previous {
@@ -434,7 +435,8 @@ a.pp_previous {
     float: left;
     height: 100%;
     text-indent: -10000px;
-    width: 49%;
+    width: 20%;
+    z-index: 500;
 }
 
 a.pp_expand,
